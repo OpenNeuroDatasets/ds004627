@@ -31,5 +31,6 @@
     ],
     "EthicsApprovals": [
         "The research was performed with permission from and approved by NIMH’s Institutional Review Board (clinical trial no. NCT03388606). All youth gave verbal and written assent, and parents gave verbal and written consent."
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004627.v1.0.0"
 }
