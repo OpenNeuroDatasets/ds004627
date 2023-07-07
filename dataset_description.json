@@ -28,5 +28,8 @@
         "https://doi.org/10.1111/jcpp.13547",
         "https://doi.org/10.1016/j.jaac.2022.04.004",
         "https://www.medrxiv.org/content/10.1101/2022.10.11.22280962v1"
+    ],
+    "EthicsApprovals": [
+        "The research was performed with permission from and approved by NIMH’s Institutional Review Board (clinical trial no. NCT03388606). All youth gave verbal and written assent, and parents gave verbal and written consent."
     ]
 }
